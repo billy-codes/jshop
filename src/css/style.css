@@ -131,7 +131,7 @@
 .home {
   padding-top: 200px;
   padding-bottom: 190px;
-  background: #494551;
+  background: #07789b;
 }
 
 .home .search {
@@ -164,7 +164,7 @@
 
 .most .card .card-content {
   transition: 0.6s;
-  background: #494551;
+  background: #07789b;
 }
 
 .most .card .card-content .left {
