@@ -52,12 +52,9 @@
         // automated typer effect for sample products
         $(function(){
             $(".searching").typed({
-            strings: ["Gopro hero 5",
-            "Apple watch",
-            "DJI Mavic Pro",
-            "MSI GP 62",
-            "Macbook pro retina 2015",
-            "Google Pixel XL",],
+            strings: ["Double Happiness Stud Earrings",
+            "Love Around Bracelet",
+            "Winged Beauty Necklace",],
             typeSpeed: -8
             });
         });
