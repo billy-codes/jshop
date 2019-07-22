@@ -1,4 +1,4 @@
-        <!-- Include all JAVASCRIPT LIBRARIS -->
+        <!-- Include all JAVASCRIPT LIBRARIES -->
 
         <!-- JQUERY FIRST -->
         <script src="src/js/jquery-2.1.4.js"></script>
