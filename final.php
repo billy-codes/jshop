@@ -1,4 +1,5 @@
 <?php
+// page to be displayed when purchased is made
   session_start();
   require 'includes/header.php';
  if (!isset($_SESSION['logged_in']) && !isset($_POST['pay'])) {
